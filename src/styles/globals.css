@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import "../styles/components/Tabsection.css";
+@import "../styles/components/AddEmployee.css";
+@import "../styles/components/EditEmployee.css";
+@import "../styles/components/ViewEmployee.css";
+
+
+h1{
+
+}
+
+
+
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+}
+

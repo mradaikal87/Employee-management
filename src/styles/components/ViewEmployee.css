@@ -1,0 +1,10 @@
+.tab-section .view-employee-section .table-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.tab-section .accordion-content .view-employee-section .table-section {
+    display: block;
+    overflow-x: auto;
+}
